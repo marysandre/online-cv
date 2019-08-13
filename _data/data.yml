@@ -57,15 +57,14 @@ career-profile:
 
 formation:
     - degree: DESS Gestion des Technologies de l’Information
-      university: CUEJ (École de journalisme de Strasbourg)
+      university: CUEJ École de journalisme de Strasbourg
       time: 1999 - 2000
-      details: |
-      Formation effectuée dans le cadre d’un congé formation
+      details: Formation effectuée dans le cadre d’un congé formation
+      
     - degree: BTS Tourisme Production et ventes 
       university: Ecole Supérieure de Tourisme
       time: 1980 - 1982
-      details: |
-      Mention Histoire de l’art
+      details: Mention Histoire de l’art
 
 experiences:
     - role: Lead Developer
