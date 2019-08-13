@@ -24,44 +24,37 @@ sidebar:
     codewars:
     goodreads:
 
-    languages:
-      - idiom: Géomatique
-        level: 
-      - idiom: Qgis
-        level: 
-      - idiom: Data-journalisme
-        level: 
-      - idiom: Illustrator
-        level: 
-      - idiom: RStudio
-        level: 
-      - idiom: OpenData
-        level: 
-      - idiom: Architecture de l'information
-        level:         
-      - idiom: ItyPa
-        level: 1er Mooc francophone
+languages: #formations
+      - idiom: DESS Gestion des Technologies de l’Information
+        level: CUEJ École de journalisme de Strasbourg
+      - idiom: BTS Tourisme Production et ventes
+        level: Ecole Supérieure de Tourisme
 
-    interests:
-      - item:
+interests: #autoformation
+      - item: Géomatique
+        link: 
+      - item: Qgis
+        link:
+      - item: Data-journalisme
+        link: 
+      - item: Illustrator
+        link:
+      - item: RStudio
+        link: 
+      - item: OpenData
+        link:
+      - item: Architecture de l'information
+        link: 
+      - item: ItyPa
         link:
 
-      - item:
-        link:
-
-      - item:
-        link:
-
+     
 career-profile:
     title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Blablabla
 
-      Second paragraph if required.
+      Blablabla
 
 formation:
     - degree: DESS Gestion des Technologies de l’Information
@@ -70,7 +63,7 @@ formation:
       details: Formation effectuée dans le cadre d’un congé formation
       
     - degree: BTS Tourisme Production et ventes 
-      university: Ecole Supérieure de Tourisme
+      university: 
       time: 1980 - 1982
       details: Mention Histoire de l’art
 
@@ -119,12 +112,8 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: Formation
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         link: "#hook"
@@ -167,26 +156,37 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Aptitudes et compétences
     toolset:
-      - name: Python & Django
+      - name: Data visualisation - Infographie
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Gestion de contenus média
         level: 98%
 
-      - name: Angular
+      - name: Excel - Google Spreadsheet
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Processus de veille
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Linkurious
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Travail collaboratif
         level: 60%
+        
+      - name: Cartographie - SIG
+        level: 60%
+        
+      - name: ETL
+        level: 60%
+        
+      - name: Notions de programmation
+        level: 60%
+        
+      - name: Notions de SGBD
+        level: 60%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
