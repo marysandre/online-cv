@@ -15,7 +15,7 @@ sidebar:
     email: muriel.pichon@gmail.com
     phone: 06 81 37 29 23
     website:
-    linkedin: alandoe
+    linkedin: muriepichondeboysere
     github: marysandre
     gitlab:
     bitbucket:
@@ -45,7 +45,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -56,31 +56,17 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    title: Formation
+    - degree: DESS Gestion des Technologies de l’Information
+      university: CUEJ (École de journalisme de Strasbourg)
+      time: 1999 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      Formation effectuée dans le cadre d’un congé formation
+    - degree: BTS Tourisme Production et ventes 
+      university: Ecole Supérieure de Tourisme
+      time: 1980 - 1982
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      Mention Histoire de l’art
 
 experiences:
     - role: Lead Developer
