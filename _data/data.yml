@@ -25,14 +25,22 @@ sidebar:
     goodreads:
 
     languages:
-      - idiom: Français
+      - idiom: Géomatique
         level: 
-
-      - idiom: Anglais
-        level: Professionel
-
-      - idiom:
-        level:
+      - idiom: Qgis
+        level: 
+      - idiom: Data-journalisme
+        level: 
+      - idiom: Illustrator
+        level: 
+      - idiom: RStudio
+        level: 
+      - idiom: OpenData
+        level: 
+      - idiom: Architecture de l'information
+        level:         
+      - idiom: ItyPa
+        level: 1er Mooc francophone
 
     interests:
       - item:
