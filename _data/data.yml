@@ -30,6 +30,19 @@ languages:
       - idiom: 
         level:
 
+# formation
+education:
+    - degree: DESS Gestion des Technologies de l’Information
+      university: CUEJ École de journalisme de Strasbourg
+      time: 1999 - 2000
+      details: Formation effectuée dans le cadre d’un congé formation
+      
+    - degree: BTS Tourisme Production et ventes 
+      university: Ecole Supérieure de Tourisme
+      time: 1980 - 1982
+      details: Mention Histoire de l’art
+
+# Mooc
 interests:
       - item: Géomatique
         link: 
@@ -56,16 +69,6 @@ career-profile:
 
       Blablabla
 
-formation:
-    - degree: DESS Gestion des Technologies de l’Information
-      university: CUEJ École de journalisme de Strasbourg
-      time: 1999 - 2000
-      details: Formation effectuée dans le cadre d’un congé formation
-      
-    - degree: BTS Tourisme Production et ventes 
-      university: Ecole Supérieure de Tourisme
-      time: 1980 - 1982
-      details: Mention Histoire de l’art
 
 experiences:
     - role: Lead Developer
@@ -112,7 +115,7 @@ experiences:
           - Bullet point
 
 projects:
-    title: Formation
+    title: Projects
     intro: >
     assignments:
       - title: Velocity
