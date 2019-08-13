@@ -24,14 +24,14 @@ sidebar:
     codewars:
     goodreads:
 
-languages:
+    languages:
       - idiom: 
         level: 
       - idiom: 
         level:
 
-# formation
-education:
+    # formation
+    education:
     - degree: DESS Gestion des Technologies de l’Information
       university: CUEJ École de journalisme de Strasbourg
       time: 1999 - 2000
@@ -42,8 +42,8 @@ education:
       time: 1980 - 1982
       details: Mention Histoire de l’art
 
-# Mooc
-interests:
+    # Mooc
+    interests:
       - item: Géomatique
         link: 
       - item: Qgis
