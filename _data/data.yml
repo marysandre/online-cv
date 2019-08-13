@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Muriel Pichon de Boysere
+    tagline: Journaliste
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: muriel.pichon@gmail.com
+    phone: 06 81 37 29 23
+    website:
     linkedin: alandoe
-    github: sharu725
+    github: marysandre
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@muriel2203'
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Français
+        level: 
 
-      - idiom: French
-        level: Professional
+      - idiom: Anglais
+        level: Professionel
 
-      - idiom: Spanish
-        level: Professional
+      - idiom:
+        level:
 
     interests:
-      - item: Climbing
+      - item:
         link:
 
-      - item: Snowboarding
+      - item:
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
