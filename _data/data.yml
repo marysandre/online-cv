@@ -55,8 +55,7 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    title: Formation
+formation:
     - degree: DESS Gestion des Technologies de l’Information
       university: CUEJ (École de journalisme de Strasbourg)
       time: 1999 - 2000
