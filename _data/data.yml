@@ -25,10 +25,10 @@ sidebar:
     goodreads:
 
     languages:
-      - idiom: 
-        level: 
-      - idiom: 
-        level:
+      - idiom: Français
+        level: native
+      - idiom: Anglais
+        level: professionnel
 
     # formation
     education:
