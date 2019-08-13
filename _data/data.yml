@@ -24,13 +24,6 @@ sidebar:
     codewars:
     goodreads:
 
-    languages:
-      - idiom: Français
-        level: native
-      - idiom: Anglais
-        level: professionnel
-
-    # formation
     education:
       - degree: DESS Gestion des Technologies de l’Information
         university: CUEJ École de journalisme de Strasbourg
@@ -60,6 +53,11 @@ sidebar:
       - item: ItyPa
         link:
 
+    languages:
+      - idiom: Français
+        level: natal
+      - idiom: Anglais
+        level: professionnel
      
 career-profile:
     title: Profile
