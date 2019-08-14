@@ -119,33 +119,31 @@ education:
     - degree: DESS Gestion des Technologies de l’Information
       university: CUEJ École de journalisme de Strasbourg
       time: 1999 - 2000
-      details: |
-        Formation effectuée dans le cadre d’un congé formation
+      details: Formation effectuée dans le cadre d’un congé formation
     - degree: BTS Tourisme Production et ventes
-      university: Ecole Supérieure de Tourisme
+      university: École Supérieure de Tourisme
       time: 1980 - 1982
-      details: |
-        Mention Histoire de l’art
+      details: Mention Histoire de l’art
 skills:
     title: Aptitudes et compétences
     toolset:
       - name: Data visualisation
-        level: 90%
+        level: 95%
 
       - name: Gestion de contenus
         level: 90%
 
-      - name: Excel
+      - name: Excel - Google Sheet 
         level: 90%
 
       - name: Processus de veille
         level: 90%
 
       - name: Linkurious
-        level: 90%
+        level: 85%
 
-      - name: Travail collaboratif
-        level: 90%
+      - name: OpenDataSoft
+        level: 80%
         
       - name: Cartographie - SIG
         level: 70%
@@ -153,7 +151,7 @@ skills:
       - name: ETL
         level: 50%
         
-      - name: Programmation
+      - name: Langage informatique
         level: 40%
         
       - name: SGBD
