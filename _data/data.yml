@@ -151,15 +151,12 @@ education:
       time: 1999 - 2000
       details: |
         Formation effectuée dans le cadre d’un congé formation
-          - Bullet point
-          - Bullet point 
+
     - degree: BTS Tourisme Production et ventes
       university: Ecole Supérieure de Tourisme
       time: 1980 - 1982
       details: |
         Mention Histoire de l’art
-          - Bullet point
-          - Bullet point 
 
 skills:
     title: Aptitudes et compétences
