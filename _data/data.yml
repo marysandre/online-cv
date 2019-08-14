@@ -58,7 +58,7 @@ career-profile:
 
 experiences:
     - role: Journaliste au Département Infographie et Innovation
-      time: 2015 - Present
+      time: 2015 - Présent
       company: Agence France-Presse, Paris
       details: |
         Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
@@ -69,17 +69,7 @@ experiences:
       details: |
         Mise en place de processus de veille et intégration de contenus à la charte graphique des clients.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-    - role: Assistante de rédaction - Contrôleur de données
+     - role: Assistante de rédaction - Contrôleur de données
       time: 1994 - 2000
       company: Agence france-Presse, Strasbourg et Paris
       details: |
