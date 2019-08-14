@@ -52,8 +52,11 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Blablabla
-      Blablabla
+      Datajournalisme
+      Gestion de contenu web
+      Opendata
+      Bases de données
+
 experiences:
     - role: Journaliste au Département Infographie et Innovation
       time: 2015 - Present
@@ -62,37 +65,31 @@ experiences:
     - role: Journaliste intégratrice web au service multimédia
       time: 2000 - 2015
       company: Agence France-Presse, Paris
-      details: |
-        Mise en place de processus de veille et intégration de contenus à la charte graphique des clients.
+      details: Mise en place de processus de veille et intégration de contenus à la charte graphique des clients.
     - role: Assistante de rédaction - Contrôleur de données
       time: 1994 - 2000
-      company: Agence france-Presse, Strasbourg et Paris
-      details: |
-        Recueil de résultats sportifs, confection d’agendas et programmes de couvertures d’événements, revue de presse, gestion administrative.
+      company: Agence France-Presse, Strasbourg et Paris
+      details: Recueil de résultats sportifs, confection d’agendas et programmes de couvertures d’événements, revue de presse, gestion administrative.
     - role: Assistante de direction - Assistante bureautique
       time: 1990 - 1994
       company: Kelly services, Paris
-      details: |
-        Missions chez Thomson, TF1, AFP, CPCU, Caisses d’Epargne.
-  
+      details: Missions chez Thomson, TF1, AFP, CPCU, Caisses d’Epargne.  
     - role: Secrétaire bureautique - Responsable télématique
       time: 1988 - 1990
       company: Office de Tourisme, Flaine (Haute-Savoie)
-      details: |
-        En charge des réservations et de l’actualisation des pages Minitel. 
+      details: En charge des réservations et de l’actualisation des pages Minitel. 
     - role: Responsable de la centrale de réservation
       time: 1986 - 1988
       company: Société des Montagnes de l’Arc, Arc 2000 (Savoie)
-      details: |
-        Gestion de 450 appartements en location saisonnière.
+      details: Gestion de 450 appartements en location saisonnière.
     - role: Agent de maîtrise au réseau routier
       time: 1984 - 1986
       company: RATP, Paris
-      details: |
-        Chef de ligne, régulation du trafic.
+      details: Chef de ligne, régulation du trafic.
+
 projects:
     title: Réalisations
-    intro: En tant que journaliste au département Infographie et innovation de l'Agence France-Presse, j'ai collaboré sur divers projets de datavisualisation. Conception et réalisation de base de données rédactionnelles ou géographiques, coordination de sous-titrage vidéo multilingue.
+    intro: En tant que journaliste au département Infographie et innovation de l'Agence France-Presse, j'ai collaboré sur divers projets de datavisualisation sur la conception et la réalisation de bases de données rédactionnelles ou géographiques, coordination de sous-titrages vidéo multilingue.
     assignments:
       - title: Balles perdues dans les favelas de Rio
         link: "https://interactive.afp.com/graphics/Balles-perdues_255"
