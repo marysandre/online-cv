@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -92,12 +92,12 @@ experiences:
       details: |
         Chef de ligne, régulation du trafic.
 projects:
-    title: Quelques projects auxquels j'ai participé
-    intro: Blablabla
+    title: Réalisations
+    intro: En tant que journaliste au département Infographie et innovation de l'Agence France-Presse, j'ai collaboré sur divers projets de datavisualisation. Conception et réalisation de base de données rédactionnelles ou géographiques, coordination de sous-titrage vidéo multilingue.
     assignments:
-      - title: Balles perdues
+      - title: Balles perdues dans les favelas de Rio
         link: "https://interactive.afp.com/graphics/Balles-perdues_255"
-        tagline: "Dans les favelas de Rio de Janeiro, les affrontements entre la police et des trafiquants lourdement armés éclatent n’importe quand, n’importe où : à côté d’une école, à la sortie d’une église, fauchant un nombre croissant d’habitants, victimes de balles perdues. Cette « guerre » s’est intensifiée dans une ville économiquement exsangue, plus d’un an après le faste de ses jeux Olympiques."
+        tagline: "ce module a remporté au Brésil le prix Petrobras dans la catégorie développement durable et questions sociales"
 
       - title: Présidentielle 2017, les programmes détaillés
         link: "https://interactive.afp.com/graphics/Presidentielle-2017-les-programmes-detailles_172"
@@ -105,27 +105,16 @@ projects:
 
       - title: Le tour de Russie des équipes du mondial
         link: "https://interactive.afp.com/graphics/Mondial-suivi-des-deplacements-des-equipes-jusqua-la-finale_489"
-        tagline: "Comparez au jour le jour les milliers de kilomètres parcourus par les joueurs à travers le plus vaste pays du monde"
+        tagline: "Comparaison au jour le jour des milliers de kilomètres parcourus par les joueurs en phase de poule à travers la Russie"
 
 publications:
-    title: Publications
+    title: 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: 
+        authors: 
+        conference: 
+        
 education:
     - degree: DESS Gestion des Technologies de l’Information
       university: CUEJ École de journalisme de Strasbourg
