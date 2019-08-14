@@ -58,8 +58,7 @@ experiences:
     - role: Journaliste au Département Infographie et Innovation
       time: 2015 - Present
       company: Agence France-Presse, Paris
-      details: |
-        Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
+      details: Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
     - role: Journaliste intégratrice web au service multimédia
       time: 2000 - 2015
       company: Agence France-Presse, Paris
@@ -129,18 +128,18 @@ skills:
     toolset:
       - name: Data visualisation
         level: 95%
-
-      - name: Gestion de contenus
-        level: 90%
-
+        
       - name: Excel - Google Sheet 
         level: 90%
 
       - name: Processus de veille
         level: 90%
 
-      - name: Linkurious
+      - name: Gestion de contenus
         level: 85%
+
+      - name: Linkurious
+        level: 80%
 
       - name: OpenDataSoft
         level: 80%
@@ -155,7 +154,7 @@ skills:
         level: 40%
         
       - name: SGBD
-        level: 40%        
+        level: 30%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
