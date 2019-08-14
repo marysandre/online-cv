@@ -45,7 +45,7 @@ sidebar:
 
     languages:
       - idiom: Français
-        level: natal
+        level: langue maternelle
       - idiom: Anglais
         level: professionnel
      
@@ -56,37 +56,18 @@ career-profile:
 
       Blablabla
 
-
 experiences:
-    - role: Lead Developer
+    - role: Journaliste au Département Infographie et Innovation
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Agence France-Presse, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Journaliste intégratrice web au service multimédia
+      time: 2000 - 2015
+      company: Agence France-Presse, Paris
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Mise en place de processus de veille et intégration de contenus à la charte graphique des clients.
 
     - role: UI Developer
       time: 2012 - 2014
@@ -98,32 +79,51 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    - role: Assistante de rédaction - Contrôleur de données
+      time: 1994 - 2000
+      company: Agence france-Presse, Strasbourg et Paris
+      details: |
+        Recueil de résultats sportifs, confection d’agendas et programmes de couvertures d’événements, revue de presse, gestion administrative.
+
+    - role: Assistante de direction - Assistante bureautique
+      time: 1990 - 1994
+      company: Kelly services, Paris
+      details: |
+        Missions chez Thomson, TF1, AFP, CPCU, Caisses d’Epargne.
+  
+    - role: Secrétaire bureautique - Responsable télématique
+      time: 1988 - 1990
+      company: Office de Tourisme, Flaine (Haute-Savoie)
+      details: |
+        En charge des réservations et de l’actualisation des pages Minitel. 
+
+    - role: Responsable de la centrale de réservation
+      time: 1986 - 1988
+      company: Société des Montagnes de l’Arc, Arc 2000 (Savoie)
+      details: |
+        Gestion de 450 appartements en location saisonnière.
+
+    - role: Agent de maîtrise au réseau routier
+      time: 1984 - 1986
+      company: RATP, Paris
+      details: |
+        Chef de ligne, régulation du trafic.
 
 projects:
     title: Projects
     intro: >
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Balles perdues
+        link: "https://interactive.afp.com/graphics/Balles-perdues_255"
+        tagline: "Dans les favelas de Rio de Janeiro, les affrontements entre la police et des trafiquants lourdement armés éclatent n’importe quand, n’importe où : à côté d’une école, à la sortie d’une église, fauchant un nombre croissant d’habitants, victimes de balles perdues. Cette « guerre » s’est intensifiée dans une ville économiquement exsangue, plus d’un an après le faste de ses jeux Olympiques."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Présidentielle 2017: les programmes détaillés
+        link: "https://interactive.afp.com/graphics/Presidentielle-2017-les-programmes-detailles_172"
+        tagline: "Propositions recensées par l'AFP des candidats à l'élection présidentielle 2017."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Le tour de Russie des équipes du mondial
+        link: "https://interactive.afp.com/graphics/Mondial-suivi-des-deplacements-des-equipes-jusqua-la-finale_489"
+        tagline: "Comparez au jour le jour les milliers de kilomètres parcourus par les joueurs à travers le plus vaste pays du monde"
 
 publications:
     title: Publications
