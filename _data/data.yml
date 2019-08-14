@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Muriel Pichon de Boysere
@@ -53,28 +53,23 @@ career-profile:
     title: Profile
     summary: |
       Blablabla
-
       Blablabla
-
 experiences:
     - role: Journaliste au Département Infographie et Innovation
-      time: 2015 - Présent
+      time: 2015 - Present
       company: Agence France-Presse, Paris
       details: |
         Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
-
     - role: Journaliste intégratrice web au service multimédia
       time: 2000 - 2015
       company: Agence France-Presse, Paris
       details: |
         Mise en place de processus de veille et intégration de contenus à la charte graphique des clients.
-
-     - role: Assistante de rédaction - Contrôleur de données
+    - role: Assistante de rédaction - Contrôleur de données
       time: 1994 - 2000
       company: Agence france-Presse, Strasbourg et Paris
       details: |
         Recueil de résultats sportifs, confection d’agendas et programmes de couvertures d’événements, revue de presse, gestion administrative.
-
     - role: Assistante de direction - Assistante bureautique
       time: 1990 - 1994
       company: Kelly services, Paris
@@ -86,19 +81,16 @@ experiences:
       company: Office de Tourisme, Flaine (Haute-Savoie)
       details: |
         En charge des réservations et de l’actualisation des pages Minitel. 
-
     - role: Responsable de la centrale de réservation
       time: 1986 - 1988
       company: Société des Montagnes de l’Arc, Arc 2000 (Savoie)
       details: |
         Gestion de 450 appartements en location saisonnière.
-
     - role: Agent de maîtrise au réseau routier
       time: 1984 - 1986
       company: RATP, Paris
       details: |
         Chef de ligne, régulation du trafic.
-
 projects:
     title: Quelques projects auxquels j'ai participé
     intro: Blablabla
@@ -121,7 +113,6 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-
     papers:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
@@ -141,13 +132,11 @@ education:
       time: 1999 - 2000
       details: |
         Formation effectuée dans le cadre d’un congé formation
-
     - degree: BTS Tourisme Production et ventes
       university: Ecole Supérieure de Tourisme
       time: 1980 - 1982
       details: |
         Mention Histoire de l’art
-
 skills:
     title: Aptitudes et compétences
     toolset:
