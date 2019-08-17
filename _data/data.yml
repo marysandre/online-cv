@@ -60,7 +60,7 @@ career-profile:
 
 experiences:
     - role: Journaliste au Département Infographie et Innovation
-      time: 2015 - Present
+      time: Depuis - 2015
       company: Agence France-Presse, Paris
       details: |
           - Travail collaboratif (datajournalistes, graphistes et développeurs) sur des projets sélectionnés par Google DNI (datavisualisation, utilisation des données dans les rédactions en partenariat avec OpenDataSoft).
@@ -97,7 +97,7 @@ experiences:
 
 projects:
     title: Réalisations
-    intro: En tant que journaliste au département Infographie et innovation de l'Agence France-Presse, j'ai collaboré sur divers projets de datavisualisation sur la conception et la réalisation de bases de données rédactionnelles ou géographiques, coordination de sous-titrages vidéo multilingue.
+    intro: En tant que journaliste au département Infographie et innovation de l'Agence France-Presse, j'ai participé à divers projets de datavisualisation sur la conception et la réalisation de bases de données rédactionnelles ou géographiques, la coordination de sous-titrages vidéo multilingue, etc...
     assignments:
       - title: Balles perdues dans les favelas de Rio
         link: "https://interactive.afp.com/graphics/Balles-perdues_255"
@@ -107,7 +107,7 @@ projects:
         link: "https://interactive.afp.com/graphics/Presidentielle-2017-les-programmes-detailles_172"
         tagline: "Propositions recensées par l'AFP des candidats à l'élection présidentielle 2017."
 
-      - title: Le tour de Russie des équipes du mondial
+      - title: Le tour de Russie des équipes du mondial 2018
         link: "https://interactive.afp.com/graphics/Mondial-suivi-des-deplacements-des-equipes-jusqua-la-finale_489"
         tagline: "Comparaison au jour le jour des milliers de kilomètres parcourus par les joueurs en phase de poule à travers la Russie"
 
