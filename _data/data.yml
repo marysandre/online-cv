@@ -153,7 +153,11 @@ skills:
         level: 65%
         
       - name: ETL
+<<<<<<< HEAD
         level: 35%
+=======
+        level: 40%
+>>>>>>> e6c3b26a4d9a3d796779eba63554d2caac264ca7
         
       - name: Langage informatique
         level: 35%
