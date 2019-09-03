@@ -150,13 +150,13 @@ skills:
         level: 80%
         
       - name: Cartographie - SIG
-        level: 70%
+        level: 65%
         
       - name: ETL
-        level: 40%
+        level: 35%
         
       - name: Langage informatique
-        level: 35%
+        level: 30%
         
       - name: SGBD
         level: 25%        
